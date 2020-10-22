@@ -1,0 +1,11 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" 
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                   xsi:schemaLocation="http://www.blizzard.com/wow/ui/ 
+                   ..\..\FrameXML\UI.xsd">
+  <Script File="ClockBuster.lua"/>
+  <Frame name="ClockBuster">
+   <Scripts>
+    <OnLoad> self:RegisterEvent("START_TIMER"); </OnLoad>
+   </Scripts>
+  </Frame>
+</Ui>

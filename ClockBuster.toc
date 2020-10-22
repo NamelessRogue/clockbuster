@@ -1,0 +1,5 @@
+## Interface: 90001
+## Title: ClockBuster
+## Notes: Countdown timers are being psychotic, Blizzard should fix that but I think they're out returning video tapes.
+ClockBuster.lua
+ClockBuster.xml
